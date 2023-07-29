@@ -5,9 +5,9 @@ incorporado en un nuevo emprendimiento tecnológico. Te solicitan que desarrolle
 que tenga un solo activity que cumpla con las siguientes premisas.
 
 Una única pantalla (sin importar el layout elegido) con
-2 cuadros de textos (EditText) 
-1 botón con el texto “comparar”
-1 texto (TextView) que en el que se escriba el resultado de la acción al presionar el botón.
+- 2 cuadros de textos (EditText) 
+- 1 botón con el texto “comparar”
+- 1 texto (TextView) que en el que se escriba el resultado de la acción al presionar el botón.
 
 Asegurate de que:
 - Utiliza MVVM
