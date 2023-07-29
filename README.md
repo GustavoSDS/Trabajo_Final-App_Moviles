@@ -1,4 +1,4 @@
-# Trabajo_Final-App_Moviles
+# Trabajo Final del Curso de Desarrollo de Aplicaciones Móviles
 Curso de Desarrollo Aplicaciones moviles dictado por TICMAS Academy - Argentina Programaa 4.0
 Para la realización de este proyecto, te invitamos a imaginarte que sos un desarrollador recién 
 incorporado en un nuevo emprendimiento tecnológico. Te solicitan que desarrolles una aplicación 
